@@ -68,7 +68,7 @@
         <h1>Happy Birthday, Agent Aldi!</h1>
         <video controls>
             <source src="https://github.com/dinaapk/dina-ishungry/blob/main/Alay.MOV" type="video/MOV">
-            <source src="Alay_video.webm](https://github.com/dinaapk/dina-ishungry/blob/main/Alay.MOV" type="video/webm">
+            <source src="https://github.com/dinaapk/dina-ishungry/blob/main/Alay.MOV" type="video/webm">
             Your browser does not support the video tag.
         </video>
         <p>Love you, moron.</p>
