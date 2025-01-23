@@ -67,9 +67,9 @@
     <div class="container">
         <h1>Happy Birthday, Agent Aldi!</h1>
         <video controls>
-            <source src="https://drive.google.com/uc?export=download&id=1EFo8L_b6UwKNu75XeOUTO6AVuz9PhuFi
+            <source src="https://drive.google.com/file/d/1EFo8L_b6UwKNu75XeOUTO6AVuz9PhuFi/view
 " type="video/MOV">
-            <source src="https://drive.google.com/uc?export=download&id=1EFo8L_b6UwKNu75XeOUTO6AVuz9PhuFi
+            <source src="https://drive.google.com/file/d/1EFo8L_b6UwKNu75XeOUTO6AVuz9PhuFi/view
 " type="video/webm">
             Your browser does not support the video tag.
         </video>
